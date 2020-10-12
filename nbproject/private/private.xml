@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/vista/Cliente_guardar_vista.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>152</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Mikipmax/Documents/NetBeansProjects/zoo-v0.6/zoo/src/modelo/Empleado.java</file>
+            <file>file:/C:/Users/Mikipmax/Documents/NetBeansProjects/zoo-v0.6/zoo/src/controlador/Controlador_itinerarios.java</file>
+            <file>file:/C:/Users/Mikipmax/Documents/NetBeansProjects/zoo-v0.6/zoo/src/vista/Principal_menu_vista.java</file>
+            <file>file:/C:/Users/Mikipmax/Documents/NetBeansProjects/zoo-v0.6/zoo/src/modelo/Cuidadores.java</file>
+            <file>file:/C:/Users/Mikipmax/Documents/NetBeansProjects/zoo-v0.6/zoo/src/controlador/Controlador_guias.java</file>
+            <file>file:/C:/Users/Mikipmax/Documents/NetBeansProjects/zoo-v0.6/zoo/src/vista/Guia_vista.java</file>
+            <file>file:/C:/Users/Mikipmax/Documents/NetBeansProjects/zoo-v0.6/zoo/src/modelo/Especies.java</file>
+            <file>file:/C:/Users/Mikipmax/Documents/NetBeansProjects/zoo-v0.6/zoo/src/controlador/Controlador_especies.java</file>
+            <file>file:/C:/Users/Mikipmax/Documents/NetBeansProjects/zoo-v0.6/zoo/src/modelo/Guias.java</file>
+        </group>
+    </open-files>
+</project-private>
